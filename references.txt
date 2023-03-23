@@ -1,0 +1,20 @@
+https://siecledigital.fr/2019/01/30/differences-intelligence-artificielle-machine-learning-deep-learning/
+
+https://flatironschool.com/blog/deep-learning-vs-machine-learning/
+
+https://www.lebigdata.fr/reseau-de-neurones-artificiels-definition
+
+https://www.tensorflow.org/learn?hl=fr
+
+
+python version 3.8.7 
+
+definition de reconnaissance faciale :
+
+https://www.kaspersky.fr/resource-center/definitions/what-is-facial-recognition
+
+cas d'usage de R-F 
+
+https://www.electronicid.eu/fr/blog/post/reconnaissance-faciale/fr
+
+https://www.journaldunet.com/solutions/reseau-social-d-entreprise/1422924-6-bonnes-raisons-de-recourir-a-la-reconnaissance-faciale/
