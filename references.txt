@@ -18,3 +18,27 @@ cas d'usage de R-F
 https://www.electronicid.eu/fr/blog/post/reconnaissance-faciale/fr
 
 https://www.journaldunet.com/solutions/reseau-social-d-entreprise/1422924-6-bonnes-raisons-de-recourir-a-la-reconnaissance-faciale/
+
+Introduction reco faciale
+
+https://www.cnil.fr/fr/definition/reconnaissance-faciale
+
+definition de ai 
+
+https://www.ionos.fr/digitalguide/web-marketing/vendre-sur-internet/quest-ce-que-lintelligence-artificielle/#:~:text=On%20peut%20la%20d%C3%A9finir%20ainsi,experts%20dans%20de%20nombreux%20domaines.
+
+
+histoire d ai
+
+https://datascientest.com/intelligence-artificielle-definition#:~:text=L'histoire%20de%20l'intelligence,d'un%20r%C3%A9seau%20de%20neurones.
+
+domaine a'app d'ai
+
+https://www.cmsinfo.org/high-tech/domaines-application-intelligence-artificielle/
+
+apprentissage automatique 
+
+introduction deep learning
+
+sap.com/france/insights/what-is-machine-learning.html
+https://datascience.eu/fr/apprentissage-automatique/top-6-des-techniques-dapprentissage-machine/
